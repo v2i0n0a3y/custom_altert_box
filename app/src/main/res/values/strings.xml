@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom_Alert_dialog</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure_you_want_to_delete_this_activity">Are you sure, You want to delete this activity</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="todo">TODO</string>
+    <string name="vinay_sharad_bhuwad">Vinay Sharad Bhuwad</string>
+    <string name="show_dialog">Show Dialog</string>
+</resources>
